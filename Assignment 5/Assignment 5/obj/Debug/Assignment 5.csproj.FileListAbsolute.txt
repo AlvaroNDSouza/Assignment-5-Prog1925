@@ -1,0 +1,15 @@
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\alvar\source\repos\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 5\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe.config
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 5\Assignment 5\Assignment 5\bin\Debug\Assignment 5.exe
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 5\Assignment 5\Assignment 5\bin\Debug\Assignment 5.pdb
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 5\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 5\Assignment 5\Assignment 5\obj\Debug\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 5\Assignment 5\Assignment 5\obj\Debug\Assignment 5.exe
+C:\Users\alvar\Desktop\Trabalhos de facul para deixar meu github bonito\Primeiro Term\Concepts I (PROG1925)\Assignment 5\Assignment 5\Assignment 5\obj\Debug\Assignment 5.pdb
